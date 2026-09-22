@@ -1,0 +1,9 @@
+# 生成脚本的临时文件（提交信息等），不要入库
+_commit_msg.txt
+_last_run.log
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
